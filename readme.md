@@ -11,7 +11,7 @@ a standalone CMS with online editor to write Hugo compatible content using Markd
 
 ## Short instructions
 
-Starting from the working directory:
+Starting from the working folder to be used with Hugo:
 
 1. Install [Hugo](https://gohugo.io/) in the folder named 'hugo'.
 
@@ -19,7 +19,7 @@ Starting from the working directory:
 
 3. Clone the *HugoCMS Editor* repo into the 'static/edit/' directory, for example.
 
-4. Create a folder named 'hugocms'.
+4. Create a folder named 'hugocms' in the working folder.
 
 5. Copy the license files sent by mail into the folder.
 
