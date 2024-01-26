@@ -9,7 +9,21 @@ a standalone CMS with online editor to write Hugo compatible content using Markd
 - php from version 7.4
 - Hugo
 
-## Short instructions
+## Installation
+
+### Short instructions for webmasters
+
+1. Download the tarball and unpack it into the working directory on the web server.
+
+2. Configure the website's document directory. The directory is the 'public ' directory.
+
+3. Copy the license files sent by mail into the 'hugocms' directory.
+
+4. Call up the CMS via your own domain with '/edit' appended.
+
+5. Set the password and startup settings for the CMS.
+
+### Short instructions for developers
 
 Starting from the working folder to be used with Hugo:
 
